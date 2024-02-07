@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/netfilixLogInClone/static/css/main.bc30af4f.css",
+    "main.js": "/netfilixLogInClone/static/js/main.50ceeca5.js",
+    "static/js/592.0de05bdd.chunk.js": "/netfilixLogInClone/static/js/592.0de05bdd.chunk.js",
+    "index.html": "/netfilixLogInClone/index.html",
+    "main.bc30af4f.css.map": "/netfilixLogInClone/static/css/main.bc30af4f.css.map",
+    "main.50ceeca5.js.map": "/netfilixLogInClone/static/js/main.50ceeca5.js.map",
+    "592.0de05bdd.chunk.js.map": "/netfilixLogInClone/static/js/592.0de05bdd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc30af4f.css",
+    "static/js/main.50ceeca5.js"
+  ]
+}
